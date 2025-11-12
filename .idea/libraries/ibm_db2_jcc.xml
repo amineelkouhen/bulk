@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ibm.db2.jcc" type="repository">
+    <properties maven-id="com.ibm.db2:jcc:LATEST" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jcc-12.1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
